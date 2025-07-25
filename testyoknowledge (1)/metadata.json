@@ -1,0 +1,8 @@
+{
+  "name": "TestYoKnowledge",
+  "description": "An AI-powered application for voice-based job interviews and skill assessments, providing instant feedback and hiring recommendations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
